@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.0](https://github.com/coaxial/maid/compare/v0.10.0-alpha.3...v0.10.0) (2023-05-01)
+
+
+### Miscellaneous Chores
+
+* release 0.10.0 ([4c90a83](https://github.com/coaxial/maid/commit/4c90a83657b2e1cfd6db298e6a859e291d9f098b))
+
 ## [0.10.0-alpha.3](https://github.com/maid/maid/compare/v0.10.0-alpha.2...v0.10.0-alpha.3) (2023-04-04)
 
 
